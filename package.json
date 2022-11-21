@@ -1,5 +1,19 @@
 {
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "name": "sdf",
+  "version": "1.0.0",
+  "main": "text.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/baicai_1/baicai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
